@@ -15,7 +15,7 @@ jahresParameter[2021] = {
   eckwert2 : 14753, linearerProgressionsfaktor2 : 995.21, eingangssteuersatz2 : 1400,
   eckwert3 : 57918, linearerProgressionsfaktor3 : 208.85,  eingangssteuersatz3 : 2397, basisKorrektur3 : 950.96,
   eckwert4 : 274612, grenzsteuersatz4 : 0.42, basisKorrektur4 : 9136.63,
-  grenzsteuersatz5 : 0.45, basisKorrektur5 : 17364.99,
+  grenzsteuersatz5 : 0.45, basisKorrektur5 : 17374.99,
   soliFreigrenze : 16956, soliSatz : 0.055, soliMilderungszoneSatz : 0.119
 }
 
@@ -56,13 +56,14 @@ jahresParameter[2025] = {
 }
 
 jahresParameter[2026] = {
-  // Werte von 2025, ändern!
+  // Steuerfortentwicklungsgesetz vom 23. Dezember 2024, zum Jahreswechsel 2025/2026 nochmal prüfen, 
+  // dass es keine Änderungen gab.
   // https://de.wikipedia.org/wiki/Einkommensteuer_(Deutschland)#Mathematische_Eigenschaften_der_Steuerfunktion
-  eckwert1 : 12096,    
-  eckwert2 : 17443, linearerProgressionsfaktor2 : 932.30, eingangssteuersatz2 : 1400,
-  eckwert3 : 68480, linearerProgressionsfaktor3 : 176.64, eingangssteuersatz3 : 2397, basisKorrektur3 : 1015.13,
-  eckwert4 : 277825, grenzsteuersatz4 : 0.42, basisKorrektur4 : 10911.92,
-  grenzsteuersatz5 : 0.45, basisKorrektur5 : 19246.67,
+  eckwert1 : 12348,    
+  eckwert2 : 17799, linearerProgressionsfaktor2 : 914.51, eingangssteuersatz2 : 1400,
+  eckwert3 : 69878, linearerProgressionsfaktor3 : 173.10, eingangssteuersatz3 : 2397, basisKorrektur3 : 1034.87,
+  eckwert4 : 277825, grenzsteuersatz4 : 0.42, basisKorrektur4 : 11135.63,
+  grenzsteuersatz5 : 0.45, basisKorrektur5 : 19470.38,
   // https://de.wikipedia.org/wiki/Solidaritätszuschlag – normalerweise sollte sich nur soliFreigrenze ändern.
   // Der Wert von 2026 wurde schon 2024 festgelegt, trotzdem prüfen, ob er sich nochmal ändert.
   soliFreigrenze : 20350, soliSatz : 0.055, soliMilderungszoneSatz : 0.119
