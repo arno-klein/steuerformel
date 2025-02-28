@@ -16,8 +16,7 @@ jahresParameter[2021] = {
   eckwert3 : 57918, linearerProgressionsfaktor3 : 208.85,  eingangssteuersatz3 : 2397, basisKorrektur3 : 950.96,
   eckwert4 : 274612, grenzsteuersatz4 : 0.42, basisKorrektur4 : 9136.63,
   grenzsteuersatz5 : 0.45, basisKorrektur5 : 17364.99,
-  soliFreigrenze : 16956, soliSatz : 0.055, soliMilderungszoneSatz : 0.119,
-  eStFunktion : "getEStDataCurrent", solZFunktion : "getSolZData2021"
+  soliFreigrenze : 16956, soliSatz : 0.055, soliMilderungszoneSatz : 0.119
 }
 
 jahresParameter[2022] = {
@@ -26,8 +25,7 @@ jahresParameter[2022] = {
   eckwert3 : 58596, linearerProgressionsfaktor3 : 206.43,  eingangssteuersatz3 : 2397, basisKorrektur3 : 869.32,
   eckwert4 : 277825, grenzsteuersatz4 : 0.42, basisKorrektur4 : 9336.45,
   grenzsteuersatz5 : 0.45, basisKorrektur5 : 17671.2,
-  soliFreigrenze : 16956, soliSatz : 0.055, soliMilderungszoneSatz : 0.119,
-  eStFunktion : "getEStDataCurrent", solZFunktion : "getSolZData2021"
+  soliFreigrenze : 16956, soliSatz : 0.055, soliMilderungszoneSatz : 0.119
 }
 
 jahresParameter[2023] = {
@@ -36,8 +34,7 @@ jahresParameter[2023] = {
   eckwert3 : 62809, linearerProgressionsfaktor3 : 192.59, eingangssteuersatz3 : 2397, basisKorrektur3 : 966.53,
   eckwert4 : 277825, grenzsteuersatz4 : 0.42, basisKorrektur4 : 9972.98,
   grenzsteuersatz5 : 0.45, basisKorrektur5 : 18307.73,
-  soliFreigrenze : 17543, soliSatz : 0.055, soliMilderungszoneSatz : 0.119,
-  eStFunktion : "getEStDataCurrent", solZFunktion : "getSolZData2021"
+  soliFreigrenze : 17543, soliSatz : 0.055, soliMilderungszoneSatz : 0.119
 }
 
 jahresParameter[2024] = {
@@ -46,8 +43,7 @@ jahresParameter[2024] = {
   eckwert3 : 66760, linearerProgressionsfaktor3 : 181.19, eingangssteuersatz3 : 2397, basisKorrektur3 : 1025.38,
   eckwert4 : 277825, grenzsteuersatz4 : 0.42, basisKorrektur4 : 10602.13,
   grenzsteuersatz5 : 0.45, basisKorrektur5 : 18936.88,
-  soliFreigrenze : 18130, soliSatz : 0.055, soliMilderungszoneSatz : 0.119,
-  eStFunktion : "getEStDataCurrent", solZFunktion : "getSolZData2021"
+  soliFreigrenze : 18130, soliSatz : 0.055, soliMilderungszoneSatz : 0.119
 }
 
 jahresParameter[2025] = {
@@ -56,8 +52,7 @@ jahresParameter[2025] = {
   eckwert3 : 68480, linearerProgressionsfaktor3 : 176.64, eingangssteuersatz3 : 2397, basisKorrektur3 : 1015.13,
   eckwert4 : 277825, grenzsteuersatz4 : 0.42, basisKorrektur4 : 10911.92,
   grenzsteuersatz5 : 0.45, basisKorrektur5 : 19246.67,
-  soliFreigrenze : 19950, soliSatz : 0.055, soliMilderungszoneSatz : 0.119,
-  eStFunktion : "getEStDataCurrent", solZFunktion : "getSolZData2021"
+  soliFreigrenze : 19950, soliSatz : 0.055, soliMilderungszoneSatz : 0.119
 }
 
 jahresParameter[2026] = {
@@ -70,8 +65,7 @@ jahresParameter[2026] = {
   grenzsteuersatz5 : 0.45, basisKorrektur5 : 19246.67,
   // https://de.wikipedia.org/wiki/Solidaritätszuschlag – normalerweise sollte sich nur soliFreigrenze ändern.
   // Der Wert von 2026 wurde schon 2024 festgelegt, trotzdem prüfen, ob er sich nochmal ändert.
-  soliFreigrenze : 20350, soliSatz : 0.055, soliMilderungszoneSatz : 0.119,
-  eStFunktion : "getEStDataCurrent", solZFunktion : "getSolZData2021"
+  soliFreigrenze : 20350, soliSatz : 0.055, soliMilderungszoneSatz : 0.119
 }
 
 /**
